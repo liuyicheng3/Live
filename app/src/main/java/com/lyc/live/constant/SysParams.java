@@ -9,5 +9,10 @@ public interface SysParams {
     String APP_KEY ="*****";
     String APP_SECRET ="**********";
 
+    String BaseUrl = Config.TestApiMode?"":"";
 
+    String Main_Feeds = BaseUrl+"/feeds";
+
+
+    String  Feeds_Details = BaseUrl+"/feeds/{id}/detail";
 }
