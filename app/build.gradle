@@ -1,4 +1,14 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.jakewharton.hugo:hugo-plugin:1.2.1'
+    }
+}
+
 apply plugin: 'com.android.application'
+apply plugin: 'com.jakewharton.hugo'
 
 android {
     dataBinding {
@@ -13,14 +23,64 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        manifestPlaceholders = [
+                UMENG_CHANNEL_VALUE:"own",
+                GETUI_APP_ID : "*******",
+                GETUI_APP_KEY : "*******",
+                GETUI_APP_SECRET : "*******"
+        ]
     }
-    buildTypes {
+
+    signingConfigs {
+        debug {
+            // 请配置好pub.key及其密码，或者改为使用debug.keystore
+            storeFile file('debug.keystore')
+        }
         release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            storeFile file('****.jks')
+            storePassword STORE_PASSWORD
+            keyAlias KEY_ALIAS
+            keyPassword KEY_PASSWORD
+            v2SigningEnabled false
         }
     }
+
+    buildTypes {
+        debug {
+            buildConfigField "String", "RELEASE_TIME", "\"Not yet\""
+            buildConfigField "boolean", "DEVELOP_MODE", "true"
+            signingConfig signingConfigs.debug
+        }
+
+        release {
+            buildConfigField "String", "RELEASE_TIME", "\"2018/2/6\"" // TODO 发布前修改为当天日期
+            buildConfigField "boolean", "DEVELOP_MODE", "false" // 关闭开发者模式
+            proguardFiles 'proguard.cfg'
+            minifyEnabled true
+            shrinkResources true
+            debuggable false
+            jniDebuggable false
+            signingConfig signingConfigs.release
+
+            applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    def outputFile = output.outputFile
+                    if (outputFile != null && outputFile.name.endsWith('.apk')) {
+                        // APK命名格式 own_Live&Love-v1.0.0_1_release.apk
+                        def fileName = "${variant.productFlavors[0].name}_Live&Love_v${defaultConfig.versionName}_${defaultConfig.versionCode}_release.apk"
+                        output.outputFile = new File(outputFile.parent, fileName)
+                    }
+                }
+            }
+        }
+    }
+
+    productFlavors {
+        own {}
+    }
 }
+
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
@@ -29,11 +89,26 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:26.+'
 
+    //EventBus
     compile 'org.greenrobot:eventbus:3.1.1'
+
+    //个推
+    compile 'com.getui:sdk:2.10.2.0'
+
+    //umeng 数据统计
+    compile 'com.umeng.analytics:analytics:latest.integration'
+
+    //RX android
+    compile 'io.reactivex:rxandroid:1.1.0'
+    compile 'io.reactivex:rxjava:1.1.0'
 
     // 网络
     compile 'com.squareup.okhttp3:okhttp:3.8.1'
     compile 'com.squareup.okhttp3:okhttp-urlconnection:3.8.1'
+
+    //retrofit
+    compile 'com.squareup.retrofit2:retrofit:2.2.0'
+    compile 'com.squareup.retrofit2:converter-gson:+'
 
     // 图库 Glide
     compile 'com.github.bumptech.glide:glide:4.0.0'
