@@ -21,12 +21,19 @@ public class RetrofitApiManager {
                     interceptor  =new BasicParamsInterceptor.Builder().build();
                     interceptor.initCommonParams(context);
                     OkHttpClient client = new OkHttpClient.Builder().addInterceptor(interceptor).
-                            addInterceptor(loggingInterceptor).addNetworkInterceptor(mockInterceptor).build();
+                            addInterceptor(loggingInterceptor).
+                            addInterceptor(mockInterceptor).
+                            build();
                     retrofit = new Retrofit.Builder()
-                            //这里可以不写基地址 然后请求时候写完整地址
-                            .baseUrl("http://httpbin.org")
-                            .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
+                            /**
+                             * 这里可以写任意一个合法的url，但是不可不写，会报错的
+                             * 建议写个官网就行，以后所有的都可以这么写死
+                             * 官方对于多基地址有两种方案，一种是在接口注解时候写全地址
+                             * 另外一种通过 @Url
+                             */
+                            .baseUrl("http://test.org")
                             .addConverterFactory(GsonConverterFactory.create())
+                            .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
                             .client(client)
                             .build();
                 }

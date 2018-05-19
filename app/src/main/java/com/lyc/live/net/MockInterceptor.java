@@ -15,10 +15,13 @@ import okhttp3.Protocol;
 import okhttp3.Request;
 import okhttp3.Response;
 import okhttp3.ResponseBody;
-import okhttp3.internal.Util;
 
 /**
  * Created by lyc on 18/5/19.
+ *
+ * 构造假数据的 Interceptor，如果判断url是http://0.0.0.0开头的就使用path的名字来找假数据
+ *
+ * 这个添加到ApplicationInteceptor上面不要添加到 NetIntercepter上面
  */
 
 public class MockInterceptor implements Interceptor {
@@ -26,16 +29,15 @@ public class MockInterceptor implements Interceptor {
     public Response intercept(Chain chain) throws IOException {
 
         Request request = chain.request();
-        if (request.url().toString().startsWith("test://")){
+        if (request.url().toString().startsWith("http://0.0.0.0")){
             try {
-                Thread.sleep(1200);
+                Thread.sleep(1000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
             //取参数
             Uri uri = Uri.parse(request.url().toString());
-            String name = uri.getHost();
-            name ="home_feeds";
+            String name = uri.getPath().split("/")[1];
             String page = uri.getQueryParameter("page");
             if (!TextUtils.isEmpty(page)) {
                 if (!page.equals("0") && !page.equals("1")) {

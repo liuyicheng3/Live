@@ -7,4 +7,7 @@ package com.lyc.live.constant;
 public interface Config {
 
     boolean TestApiMode = true;
+
+    long MaxNetRequestWarning = 3000; // 超长的网络请求的日志
+
 }

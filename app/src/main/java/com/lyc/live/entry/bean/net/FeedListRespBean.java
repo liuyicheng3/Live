@@ -11,9 +11,33 @@ import java.util.ArrayList;
 
 public class FeedListRespBean extends RespStatusBean {
 
-    public static class Data {
-        public ArrayList<FeedItemItemBean> list = new ArrayList<>();
-        public int hasNext;
-        public int page;
+
+    /**
+     * pageCount : 1600
+     * cate2Id : 0
+     * nowPage : 1
+     * cate2Name :
+     * shortName :
+     */
+
+    public int pageCount;
+    public int cate2Id;
+    public int nowPage;
+    public String cate2Name;
+    public String shortName;
+
+    public ArrayList<FeedItemItemBean> result = new ArrayList<>();
+
+
+    public void copy2self(FeedListRespBean resp){
+        this.status = resp.status;
+        this.desc = resp.desc;
+        this.pageCount = resp.pageCount;
+        this.cate2Id = resp.cate2Id;
+        this.nowPage = resp.nowPage;
+        this.cate2Name = resp.cate2Name;
+        this.shortName = resp.shortName;
+        this.result.clear();
+        this.result.addAll(resp.result);
     }
 }
