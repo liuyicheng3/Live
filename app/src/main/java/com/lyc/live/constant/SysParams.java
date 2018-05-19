@@ -11,7 +11,8 @@ public interface SysParams {
 
     String BaseUrl = Config.TestApiMode?"":"";
 
-    String Main_Feeds = BaseUrl+"/feeds";
+//    String Main_Feeds = BaseUrl+"/feeds";
+    String Main_Feeds = "/get";
 
 
     String  Feeds_Details = BaseUrl+"/feeds/{id}/detail";

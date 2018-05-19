@@ -79,7 +79,14 @@ android {
     productFlavors {
         own {}
     }
+    sourceSets {
+        main {
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
+        }
+    }
 }
+
 
 
 dependencies {
@@ -108,7 +115,8 @@ dependencies {
 
     //retrofit
     compile 'com.squareup.retrofit2:retrofit:2.2.0'
-    compile 'com.squareup.retrofit2:converter-gson:+'
+    compile 'com.squareup.retrofit2:converter-gson:2.2.0'
+    compile 'com.squareup.retrofit2:adapter-rxjava:2.2.0'
 
     // 图库 Glide
     compile 'com.github.bumptech.glide:glide:4.0.0'
@@ -117,5 +125,11 @@ dependencies {
         // Excludes the support library because it's already included by Glide.
         transitive = false
     }
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.0.0'
+
+    compile 'com.android.support:appcompat-v7:26.1.0'
+    compile 'com.android.support:design:26.1.0'
+    compile 'com.android.support:support-annotations:25.3.1'
+
     testCompile 'junit:junit:4.12'
 }

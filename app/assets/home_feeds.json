@@ -1,0 +1,1581 @@
+{
+    "banner": [
+        {
+            "id": 30,
+            "pic_url": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/slide/2018/0508/201805081634569034.png",
+            "title": "MDL金鹰电竞站",
+            "cate2_id": 3,
+            "online": 336627,
+            "status": 1,
+            "pos": 1
+        },
+        {
+            "id": 231555,
+            "pic_url": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/slide/2018/0515/201805151144044674.jpg",
+            "title": "一人之下手游漫展发布",
+            "cate2_id": 229,
+            "online": 102896,
+            "status": 1,
+            "pos": 2
+        },
+        {
+            "id": 2532616,
+            "pic_url": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/slide/2018/0516/201805161233362792.jpg",
+            "title": "欧莱雅男士520",
+            "cate2_id": 124,
+            "online": 771178,
+            "status": 1,
+            "pos": 3
+        },
+        {
+            "id": 2144558,
+            "pic_url": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/slide/2018/0518/201805181835596231.jpg",
+            "title": "斗鱼带你走进中国科学院",
+            "cate2_id": 204,
+            "online": 73202,
+            "status": 1,
+            "pos": 4
+        },
+        {
+            "id": 4396165,
+            "pic_url": "https://staticlive.douyucdn.cn/storage/webpic_resources/upload/slide/2018/0306/201803061540549861.jpg",
+            "title": "绝地求生 刺激战场",
+            "cate2_id": 350,
+            "online": 12472,
+            "status": 1,
+            "pos": 5
+        },
+        {
+            "id": 43053,
+            "pic_url": "https://cs-op.douyucdn.cn/douyu-vrp-admin/2018/04/17/832cb034b722523ac33561a371d4a5a0.jpg",
+            "title": "秒收flag",
+            "cate2_id": 19,
+            "online": 3974,
+            "status": 1,
+            "pos": 6
+        }
+    ],
+    "hotList": [
+        {
+            "data": [
+                {
+                    "room_id": "4548634",
+                    "room_name": "叶公好龙，我好你〃&#039;▽&#039;〃",
+                    "cate2_id": 0,
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/05/19/a44ccd7cf134b4d4ba75f5252f52dd45.png",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201803/22/17/de081cca2b6ee7febb79ffd3189e6ff4_big.jpg?rltime",
+                    "nickname": "柳川渔",
+                    "online": 203,
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "1345550",
+                    "room_name": "1345550的直播间",
+                    "cate2_id": 0,
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/05/13/3fa674532d1c767d6ef7bef052395269.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201611/07/18/cae0603ceb9fdf84cd04f8d9fc451f5b_big.jpg?rltime",
+                    "nickname": "努力的Lorre",
+                    "online": "4.2万",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "2295446",
+                    "room_name": "我在上海cp22~等你~",
+                    "cate2_id": 0,
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/2295446_1410.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201711/20/19/9de74d2ab4191100b4110738ac566f91_big.jpg?rltime",
+                    "nickname": "火锅hoho",
+                    "online": 1457,
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "4914386",
+                    "room_name": "DEATH☆格雷尔COS",
+                    "cate2_id": 0,
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/05/19/4b81a4710de835ce62b2ea52ea445605.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201805/6036f8d886b5260d98d096fd9c02d600_big.jpg?rltime",
+                    "nickname": "洛杉矶伯",
+                    "online": 3,
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "御宅领域",
+            "icon": "https://staticlive.douyucdn.cn/upload/abc47e929b7d6c1595ee09379197dc37.png",
+            "description": "冲破次元壁垒"
+        },
+        {
+            "data": [
+                {
+                    "room_id": "78561",
+                    "room_name": "雪MM：一句脏话500元",
+                    "cate2_id": "270",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/78561_1413.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avatar/face/201608/31/7717fb9606c2df4ffd1f4690e454fd20_big.jpg",
+                    "nickname": "妃凌雪",
+                    "online": "56.5万",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "699689",
+                    "room_name": "送钱tv：还剩52000鱼翅1点抽",
+                    "cate2_id": "270",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/699689_1412.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201710/27/13/8510248c17bdfc667d7a4191d9c2a821_big.jpg",
+                    "nickname": "狐狸不太Sao",
+                    "online": "14.2万",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "687423",
+                    "room_name": "【YJJPP】 今天身体有病 玩下别的",
+                    "cate2_id": "270",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/687423_1412.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201804/ee1e2052580fb75e701ccd6a7713f4e1_big.jpg",
+                    "nickname": "yjjimpaopao",
+                    "online": "8.1万",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "485503",
+                    "room_name": "【圆梦珠峰】我们的旅行记-珠峰大本营11",
+                    "cate2_id": "124",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/485503_1413.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201612/12/16/6207ee53080654d0711a4062a71a8616_big.jpg",
+                    "nickname": "彡彡九户外",
+                    "online": "5.5万",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "绝地求生",
+            "icon": "https://staticlive.douyucdn.cn/upload/5935614e324b1160b094f7a010016ee0.png",
+            "description": "吃鸡大吉大利"
+        },
+        {
+            "data": [
+                {
+                    "room_id": "4366062",
+                    "room_name": "第一女打野  mua 礼拜天带铁粉上分",
+                    "cate2_id": "181",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/04/05/d523a0de772c3c6f336876bc25defd44.png",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201802/27/22/6c4dcdb4282feea01e4b4a744af46958_big.jpg",
+                    "nickname": "Destiny飘美人",
+                    "online": "7711",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "748396",
+                    "room_name": "【林蒙】进来学技术",
+                    "cate2_id": "181",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/748396_1410.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avatar/face/201607/03/51c2fe099ec6a1a161950caa0c321c01_big.jpg",
+                    "nickname": "林蒙m",
+                    "online": "30.6万",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "2203323",
+                    "room_name": "大号已国服韩信！在打一个国服",
+                    "cate2_id": "181",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/04/27/3b737e480a0f5ede13a340b871e6841a.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201705/26/20/a648d851de6da05bd44406eb6957f1a5_big.jpg",
+                    "nickname": "DY烁哥",
+                    "online": "9.8万",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "2205764",
+                    "room_name": "国服赵云：一万场胜率80以上赵云专场。",
+                    "cate2_id": "181",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/05/08/a9164f85869532fe574dad3435d53197.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201711/06/23/a176e6d7ff44d2aa0f98b3f0df15bf3b_big.jpg",
+                    "nickname": "声优赵猥琐",
+                    "online": "5.6万",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "王者荣耀",
+            "icon": "https://staticlive.douyucdn.cn/upload/68994677046f5b81ef0b7d85c2442233.png",
+            "description": "英雄热血竞技"
+        },
+        {
+            "data": [
+                {
+                    "room_id": "2110130",
+                    "room_name": "我叫王歌词，唱歌贼NB的主播",
+                    "cate2_id": "175",
+                    "room_src": "https://rpic.douyucdn.cn/a1706/13/21/2110130_170613215231.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201705/29/02/18283893079c5fd09200a5cee3fb9a8c_big.jpg",
+                    "nickname": "王歌词",
+                    "online": "5561",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "1685597",
+                    "room_name": "百威xlabelhood  血色百威摩登夜",
+                    "cate2_id": "175",
+                    "room_src": "https://rpic.douyucdn.cn/aorpic/171021/1685597_2147.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201707/18/01/083d2e00ff6731645fc02cfdfce590ea_big.jpg",
+                    "nickname": "PD鹰士",
+                    "online": "8279",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "1869237",
+                    "room_name": "Mc雀句  今天想听啥 你们点!!",
+                    "cate2_id": "175",
+                    "room_src": "https://rpic.douyucdn.cn/a1706/13/00/1869237_170613002430.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201703/16/14/7bb817e734334b6892f23eae655ccb8b_big.jpg",
+                    "nickname": "mc雀句吖",
+                    "online": "5304",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": "634874",
+                    "room_name": "越幸运越幸运吧",
+                    "cate2_id": "181",
+                    "room_src": "https://rpic.douyucdn.cn/a1708/20/23/634874_170820232805.jpg",
+                    "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201707/01/18/98cae0b8a65d69c71ad5a11cbebf6d42_big.jpg",
+                    "nickname": "孔升",
+                    "online": "2530",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "鲜肉女神",
+            "icon": "https://staticlive.douyucdn.cn/upload/0c3bbafc1100256793c6cc82ed8d303a.png",
+            "description": ""
+        }
+    ],
+    "liveList": [
+        {
+            "room_id": 3423189,
+            "room_name": "屠尽天下人",
+            "cate2_id": 270,
+            "room_src": "https://rpic.douyucdn.cn/amrpic-180519/3423189_1412.jpg",
+            "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201710/09/14/5d63e5e5078620b861272189de2fdc94_small.jpg",
+            "nickname": "渝万丶丛林",
+            "online": 1345,
+            "isAudio": 0
+        },
+        {
+            "room_id": 744229,
+            "room_name": "【昊哥】有没有河南的老乡了解下",
+            "cate2_id": 270,
+            "room_src": "https://rpic.douyucdn.cn/amrpic-180519/744229_1412.jpg",
+            "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201803/23/04/18e8828350abab257e437ce0afe8bb5b_small.jpg",
+            "nickname": "昊哥沉迷吃鸡无法自拔",
+            "online": 4951,
+            "isAudio": 0
+        },
+        {
+            "room_id": 323460,
+            "room_name": "拳头设计师和你聊派克",
+            "cate2_id": 1,
+            "room_src": "https://rpic.douyucdn.cn/amrpic-180519/323460_1413.jpg",
+            "avatar": "https://apic.douyucdn.cn/upload/avanew/face/201804/f440ed33c26e5e6a612856132bee444c_small.jpg",
+            "nickname": "Rito兔美酱",
+            "online": 5517,
+            "isAudio": 0
+        },
+        {
+            "room_id": 121122,
+            "room_name": "国际服带水友走起",
+            "cate2_id": 6,
+            "room_src": "https://rpic.douyucdn.cn/amrpic-180519/121122_1413.jpg",
+            "avatar": "https://apic.douyucdn.cn/upload/avatar/face/201606/25/767231f63b50b2d9cd3b41777deaea5d_small.jpg",
+            "nickname": "valder88",
+            "online": 1945,
+            "isAudio": 0
+        }
+    ],
+    "liveCount": 11358,
+    "yzList": [
+        {
+            "room_id": 2141766,
+            "room_name": "今天竖屏了解一下",
+            "cate1_id": 2,
+            "cate2_id": 311,
+            "room_src": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/05/17/2141766_20180517010811_small.jpg",
+            "vertical_src": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/05/17/2141766_20180517010811_big.jpg",
+            "nickname": "你的珂珂宝",
+            "isVertical": 0,
+            "anchorCity": "",
+            "online": "9.1万"
+        },
+        {
+            "room_id": 1854725,
+            "room_name": "一切从头开始！",
+            "cate1_id": 8,
+            "cate2_id": 201,
+            "room_src": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/05/14/1854725_20180514170413_small.jpg",
+            "vertical_src": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/05/14/1854725_20180514170413_big.jpg",
+            "nickname": "林cute",
+            "isVertical": 1,
+            "anchorCity": "",
+            "online": "6万"
+        },
+        {
+            "room_id": 4883237,
+            "room_name": "可口可乐小姐姐的直播间",
+            "cate1_id": 8,
+            "cate2_id": 201,
+            "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/05/10/255ee31c4cd0e08575c980142bc74c20_big.jpg",
+            "vertical_src": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/05/10/255ee31c4cd0e08575c980142bc74c20_small.jpg",
+            "nickname": "可口可乐小姐姐",
+            "isVertical": 1,
+            "anchorCity": "",
+            "online": 6050
+        },
+        {
+            "room_id": 1965453,
+            "room_name": "「大琳」做饭tv了解一下",
+            "cate1_id": 2,
+            "cate2_id": 311,
+            "room_src": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/05/14/1965453_20180514002749_small.jpg",
+            "vertical_src": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/05/14/1965453_20180514002749_big.jpg",
+            "nickname": "污大琳不污是平胸",
+            "isVertical": 0,
+            "anchorCity": "",
+            "online": "4.3万"
+        }
+    ],
+    "mixList": [
+        {
+            "data": [
+                {
+                    "room_id": 262877,
+                    "room_name": "西藏行 第九天 前往拉萨",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/262877_1413.jpg",
+                    "cate2_id": 270,
+                    "nickname": "解放大官人",
+                    "online": "5.8万",
+                    "cate2Name": "绝地求生",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 276685,
+                    "room_name": "【AC组 】黄金大奖赛第四季精英DAY8",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/276685_1413.jpg",
+                    "cate2_id": 270,
+                    "nickname": "黄金大奖赛",
+                    "online": "8.3万",
+                    "cate2Name": "绝地求生",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 699689,
+                    "room_name": "送钱tv：还剩52000鱼翅1点抽",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/699689_1414.jpg",
+                    "cate2_id": 270,
+                    "nickname": "狐狸不太Sao",
+                    "online": "26.6万",
+                    "cate2Name": "绝地求生",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 1761727,
+                    "room_name": "嗨 周末快乐呀",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/1761727_1410.jpg",
+                    "cate2_id": 175,
+                    "nickname": "我是唐菲",
+                    "online": "14万",
+                    "cate2Name": "音乐",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "绝地求生",
+            "shortName": "jdqs",
+            "cate2Info": {
+                "175": {
+                    "cate1Id": "2",
+                    "cate2Id": "175",
+                    "cate2Name": "音乐",
+                    "shortName": "music",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/d585248ffbd27ee3d386f587e64e82f7.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/fe21193c72537bad3cd9917d67e4b02c.png",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/17eae7d84cacd7071b182bd03499db2a.png",
+                    "count": 80,
+                    "isAudio": 0
+                },
+                "270": {
+                    "cate1Id": "15",
+                    "cate2Id": "270",
+                    "cate2Name": "绝地求生",
+                    "shortName": "jdqs",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/63a6c37b1bece659805e58ffeac6d00a.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/5a92cff5881b5c62814f5289c79b38cf.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/e44562661012d49e22a273c12ca176e3.jpg",
+                    "count": 1542,
+                    "isAudio": 0
+                }
+            },
+            "count": 1540,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2018/03/05/503e92d13c5c90b7ae94e32d9c7d601d.png"
+        },
+        {
+            "data": [
+                {
+                    "room_id": 560616,
+                    "room_name": "小阿姨：露娜专场❤️",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/05/04/3303ebd85251e77db7dce72f6637b2c5.png",
+                    "cate2_id": 181,
+                    "nickname": "许阿姨",
+                    "online": "11.4万",
+                    "cate2Name": "王者荣耀",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 2205764,
+                    "room_name": "国服赵云：一万场胜率80以上赵云专场。",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/05/08/a9164f85869532fe574dad3435d53197.jpg",
+                    "cate2_id": 181,
+                    "nickname": "声优赵猥琐",
+                    "online": "10万",
+                    "cate2Name": "王者荣耀",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 3458160,
+                    "room_name": "最强太乙:钻星碾压教学",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/04/28/2cb57c078bd11c004e089d984da568fd.png",
+                    "cate2_id": 181,
+                    "nickname": "豆豆丶Thomas",
+                    "online": "12.2万",
+                    "cate2Name": "王者荣耀",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 2203323,
+                    "room_name": "大号已国服韩信！在打一个国服",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/04/27/3b737e480a0f5ede13a340b871e6841a.jpg",
+                    "cate2_id": 181,
+                    "nickname": "DY烁哥",
+                    "online": "21万",
+                    "cate2Name": "王者荣耀",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "王者荣耀",
+            "shortName": "wzry",
+            "cate2Info": {
+                "181": {
+                    "cate1Id": "9",
+                    "cate2Id": "181",
+                    "cate2Name": "王者荣耀",
+                    "shortName": "wzry",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/b14b8890330ca7cb5185b954808485fc.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/f719087663581b7a723c4d39f8721bc1.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/bb9148fde757a69259f82b97aebd73af.png",
+                    "count": 1172,
+                    "isAudio": 0
+                }
+            },
+            "count": 1168,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2017/12/28/ca03cd9e4c65f0e30c3f7a5cb00159a1.png"
+        },
+        {
+            "data": [
+                {
+                    "room_id": 3565879,
+                    "room_name": "直播中：亲密互动 了解一下",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/3565879_1410.jpg",
+                    "cate2_id": 174,
+                    "nickname": "温柔善良的雪雪",
+                    "online": "3.6万",
+                    "cate2Name": "二次元",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 2295446,
+                    "room_name": "我在上海cp22~等你~",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/2295446_1410.jpg",
+                    "cate2_id": 174,
+                    "nickname": "火锅hoho",
+                    "online": "1.7万",
+                    "cate2Name": "二次元",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 1345550,
+                    "room_name": "1345550的直播间",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/05/13/3fa674532d1c767d6ef7bef052395269.jpg",
+                    "cate2_id": 174,
+                    "nickname": "努力的Lorre",
+                    "online": "2.9万",
+                    "cate2Name": "二次元",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 3391583,
+                    "room_name": "二次元小姐姐的中英日德法沪语尬歌场",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/3391583_1410.jpg",
+                    "cate2_id": 174,
+                    "nickname": "小雪爱雪糕",
+                    "online": "2万",
+                    "cate2Name": "二次元",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "二次元",
+            "shortName": "ecy",
+            "cate2Info": {
+                "174": {
+                    "cate1Id": "2",
+                    "cate2Id": "174",
+                    "cate2Name": "二次元",
+                    "shortName": "ecy",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/ae59f668fa93a3755464f632126fc786.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/e6aa94fa2d6c5498bd72f11422710f3e.png",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/7521d4b66724e8b1350b9db172c66c92.png",
+                    "count": 128,
+                    "isAudio": 0
+                }
+            },
+            "count": 159,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2018/03/05/2de6a7312ceedf03766514dfd8b9bd7f.png"
+        },
+        {
+            "data": [
+                {
+                    "room_id": 4418683,
+                    "room_name": "再不表白我们就老了",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/4418683_1410.jpg",
+                    "cate2_id": 46,
+                    "nickname": "渝万丶暁姐姐",
+                    "online": "1.1万",
+                    "cate2Name": "逆战",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 3952247,
+                    "room_name": "直播:北京白金预选,小野,Nemo到场!",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/3952247_1409.jpg",
+                    "cate2_id": 29,
+                    "nickname": "边哥",
+                    "online": "3.2万",
+                    "cate2Name": "格斗游戏",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 268716,
+                    "room_name": "+不想努力了",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/268716_1413.jpg",
+                    "cate2_id": 11,
+                    "nickname": "嘉浩Jayho",
+                    "online": 5782,
+                    "cate2Name": "使命召唤OL",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 1761727,
+                    "room_name": "嗨 周末快乐呀",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/1761727_1410.jpg",
+                    "cate2_id": 175,
+                    "nickname": "我是唐菲",
+                    "online": "14万",
+                    "cate2Name": "音乐",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "竞技游戏",
+            "shortName": "jjyx",
+            "cate2Info": {
+                "1": {
+                    "cate1Id": "1",
+                    "cate2Id": "1",
+                    "cate2Name": "英雄联盟",
+                    "shortName": "LOL",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/c543faae97189c529c37b7741906d5a1.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/d3e0073bfb714186ab0c818744601963.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/ffdc72ed97b50ad8011de9a779b8d83b.png",
+                    "count": 1225,
+                    "isAudio": 0
+                },
+                "3": {
+                    "cate1Id": "1",
+                    "cate2Id": "3",
+                    "cate2Name": "DOTA2",
+                    "shortName": "DOTA2",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/dfb7341f7c3119fdc2e8cf0d8bf2592c.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/a887fa9dc9d6901b5fd5c86c8e169436.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/1fafd83196c5a75351fb9422c2e57d21.png",
+                    "count": 153,
+                    "isAudio": 0
+                },
+                "11": {
+                    "cate1Id": "1",
+                    "cate2Id": "11",
+                    "cate2Name": "使命召唤OL",
+                    "shortName": "CODONLINE",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/ee43393bde36d35da30caa8000947224.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/cc57470e76e82e7570f738e9a3ad4de3.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/8c9fa944ace1c792ffd18cc9cc700084.png",
+                    "count": 23,
+                    "isAudio": 0
+                },
+                "29": {
+                    "cate1Id": "15",
+                    "cate2Id": "29",
+                    "cate2Name": "格斗游戏",
+                    "shortName": "FTG",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/aa8f65c3c7efd2c0300b39e9205bb9c0.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/d014202049bb30994b1462714507cd8e.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/daa01548800d7fc83a6b9decef7becbf.png",
+                    "count": 29,
+                    "isAudio": 0
+                },
+                "46": {
+                    "cate1Id": "1",
+                    "cate2Id": "46",
+                    "cate2Name": "逆战",
+                    "shortName": "NZ",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/a770bdc020deb2f3d16234e817e1d415.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/9f78237f61c3d7b1b197a64d0af0e08d.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/e5384e94cfb27649e2729153cb9055ad.png",
+                    "count": 51,
+                    "isAudio": 0
+                },
+                "66": {
+                    "cate1Id": "1",
+                    "cate2Id": "66",
+                    "cate2Name": "反恐精英",
+                    "shortName": "CS",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/86fe73e0d9aaa4672874c11753a14dbc.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/83999454491930cf9c8d1f9d550005bf.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/ace0ef2726797c20cca92c68ac3fb0d7.png",
+                    "count": 4,
+                    "isAudio": 0
+                },
+                "77": {
+                    "cate1Id": "1",
+                    "cate2Id": "77",
+                    "cate2Name": "英魂之刃",
+                    "shortName": "COS",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/9036e680ff7cc64c65bb2163ee0237b0.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/542a5425ac914b9f17afac17335d133b.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/aa0114ece8eaa0d3e4bf2177489462a2.png",
+                    "count": 12,
+                    "isAudio": 0
+                },
+                "175": {
+                    "cate1Id": "2",
+                    "cate2Id": "175",
+                    "cate2Name": "音乐",
+                    "shortName": "music",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/d585248ffbd27ee3d386f587e64e82f7.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/fe21193c72537bad3cd9917d67e4b02c.png",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/17eae7d84cacd7071b182bd03499db2a.png",
+                    "count": 80,
+                    "isAudio": 0
+                }
+            },
+            "count": 1610,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2017/12/29/1bf95cc98792dab8110f19f381bb0833.png"
+        },
+        {
+            "data": [
+                {
+                    "room_id": 4711524,
+                    "room_name": "【女王镇】冒险岛2，上线！",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/4711524_1411.jpg",
+                    "cate2_id": 200,
+                    "nickname": "超绝可爱霹雳乖",
+                    "online": 2658,
+                    "cate2Name": "冒险岛2",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 216939,
+                    "room_name": "今天驱逐舰~对局细节讲解",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/216939_1413.jpg",
+                    "cate2_id": 255,
+                    "nickname": "海妖素还真奥尼酱",
+                    "online": "1.1万",
+                    "cate2Name": "军事游戏",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 2135297,
+                    "room_name": "萌新指导：能教会你算我输！答案全靠编。",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/2135297_1410.jpg",
+                    "cate2_id": 65,
+                    "nickname": "太行TaHang",
+                    "online": 5487,
+                    "cate2Name": "剑网3",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 155983,
+                    "room_name": "【哈皇】噢，这人克我",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/155983_1413.jpg",
+                    "cate2_id": 15,
+                    "nickname": "Honeyiii",
+                    "online": 439,
+                    "cate2Name": "激战2",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "网络游戏",
+            "shortName": "wlyx",
+            "cate2Info": {
+                "15": {
+                    "cate1Id": "1",
+                    "cate2Id": "15",
+                    "cate2Name": "激战2",
+                    "shortName": "GuildWars2",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/c061be6a74e33148a7ec6969cd35c7d9.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/a31fc7999cf06ab4167325fc4df5a74d.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/de5d40c0e58e86b32e1c7b707b6c0a34.png",
+                    "count": 7,
+                    "isAudio": 0
+                },
+                "47": {
+                    "cate1Id": "1",
+                    "cate2Id": "47",
+                    "cate2Name": "竞速游戏",
+                    "shortName": "jingsu",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/d1e30ea9f50261a9b1012716a50e8fa5.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/203e1ef12050f34f35bb1e3283648eab.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/546aca6e41ead4b075e88b2e9adca69f.png",
+                    "count": 29,
+                    "isAudio": 0
+                },
+                "59": {
+                    "cate1Id": "1",
+                    "cate2Id": "59",
+                    "cate2Name": "天涯明月刀",
+                    "shortName": "tianya",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/599af94d27cda5a4e191db946708c41f.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/5a8f00f7c729644b0470ec08d101f6a8.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/cf13aabb3d547d137fe173aeb97c88a2.png",
+                    "count": 109,
+                    "isAudio": 0
+                },
+                "65": {
+                    "cate1Id": "1",
+                    "cate2Id": "65",
+                    "cate2Name": "剑网3",
+                    "shortName": "JX3",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/10bfb185da447339c78bc319f6d79156.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/d413c8d604723ba125d0d9f8fdf23855.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/7e88a750ee15ebfc8f0098743dfbea70.png",
+                    "count": 36,
+                    "isAudio": 0
+                },
+                "69": {
+                    "cate1Id": "1",
+                    "cate2Id": "69",
+                    "cate2Name": "梦幻西游",
+                    "shortName": "MHXYOL",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/e129b861470bba48646b1aa0a1da3d8e.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/8d963c1b9f207bedbd7583d1d43833ee.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/69573e376da57f9ea09410f6e996c106.png",
+                    "count": 16,
+                    "isAudio": 0
+                },
+                "200": {
+                    "cate1Id": "1",
+                    "cate2Id": "200",
+                    "cate2Name": "冒险岛2",
+                    "shortName": "MXD2",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/cf5aa5d1f3a55d97cd57efdec87ad3f9.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/475e7cc40a0e8e85c276ac6f9eb50c84.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/72d7a099bd5cc21fbe229b017f11adab.png",
+                    "count": 4,
+                    "isAudio": 0
+                },
+                "203": {
+                    "cate1Id": "1",
+                    "cate2Id": "203",
+                    "cate2Name": "热门网游",
+                    "shortName": "rmwy",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/725fbaec18cf45d6abbd4038511446a8.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/801b8750f0a509fd0b0c43139c7ab20b.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/45d9411d253db2d71e58e1fa248cac90.png",
+                    "count": 146,
+                    "isAudio": 0
+                },
+                "255": {
+                    "cate1Id": "1",
+                    "cate2Id": "255",
+                    "cate2Name": "军事游戏",
+                    "shortName": "jsyx",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/0c5fd22b4f8403e235823dcb6919e36f.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/328faca66d7fe31d9c9ce38f99290ffe.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/def0ed72019fb0ba9a3eb3e8226139ab.jpg",
+                    "count": 51,
+                    "isAudio": 0
+                }
+            },
+            "count": 712,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2017/12/29/bd9a95fe2c8cf05b933281ac5f8b351e.png"
+        },
+        {
+            "data": [
+                {
+                    "room_id": 291313,
+                    "room_name": "内斯塔~晚12点足总杯曼联VS切尔西",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/291313_1413.jpg",
+                    "cate2_id": 51,
+                    "nickname": "SH内斯塔",
+                    "online": "2.9万",
+                    "cate2Name": "FIFA ONLINE 4",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 229743,
+                    "room_name": "今天也要当精致的猪猪女孩",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/229743_1413.jpg",
+                    "cate2_id": 419,
+                    "nickname": "主播秋山澪丶",
+                    "online": "4.1万",
+                    "cate2Name": "新游前线",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 3407181,
+                    "room_name": "同学开心就好，别管老师死活",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/3407181_1413.jpg",
+                    "cate2_id": 377,
+                    "nickname": "夕阳枪神韩老师",
+                    "online": "1.1万",
+                    "cate2Name": "R6",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 516486,
+                    "room_name": "你看 说好的联机档",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/516486_1413.jpg",
+                    "cate2_id": 23,
+                    "nickname": "i你的男孩zzp",
+                    "online": 2248,
+                    "cate2Name": "饥荒",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "客厅游戏",
+            "shortName": "zjyx",
+            "cate2Info": {
+                "19": {
+                    "cate1Id": "15",
+                    "cate2Id": "19",
+                    "cate2Name": "主机游戏",
+                    "shortName": "TVgame",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/5ab9135cb67ea8ad63cd33edb871d903.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/602c38f19a4fe9af40fdb64a00ce9ed5.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/32affd3a3548756b2d084b92307e7586.png",
+                    "count": 547,
+                    "isAudio": 0
+                },
+                "23": {
+                    "cate1Id": "15",
+                    "cate2Id": "23",
+                    "cate2Name": "饥荒",
+                    "shortName": "famine",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/ea235f91a6d4a3ca682d04e3d9a6f485.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/f7839d347329e7d4b3675af50c0e0b01.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/5506815e096ce1f7008abc122afa7dfa.png",
+                    "count": 16,
+                    "isAudio": 0
+                },
+                "44": {
+                    "cate1Id": "15",
+                    "cate2Id": "44",
+                    "cate2Name": "我的世界",
+                    "shortName": "MC",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/0cb76bb4d1f56bc617c87fcca016080a.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/95a7a48a57bf02b3f46d3afa23f1be89.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/9e25b6c1e751d945e7c1c653719394f1.png",
+                    "count": 34,
+                    "isAudio": 0
+                },
+                "51": {
+                    "cate1Id": "1",
+                    "cate2Id": "51",
+                    "cate2Name": "FIFA ONLINE 4",
+                    "shortName": "FIFAOL4",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/ac7acc8d77bb27d71b99394f1cedfed3.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/58cf56e002764d0451fbde66853c4a21.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/f23f1425a0922a2389d9f36e9bdaec06.png",
+                    "count": 31,
+                    "isAudio": 0
+                },
+                "367": {
+                    "cate1Id": "15",
+                    "cate2Id": "367",
+                    "cate2Name": "怪物猎人",
+                    "shortName": "gwlrsj",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/06c4d5df313d8fded648c0f4400b9c27.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/de63c2b5c4208962cd7c237afc299098.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/f17c07b22ba1e92f99acdb569263ddec.jpg",
+                    "count": 11,
+                    "isAudio": 0
+                },
+                "377": {
+                    "cate1Id": "15",
+                    "cate2Id": "377",
+                    "cate2Name": "R6",
+                    "shortName": "R6",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/5c1f0bcd1591f3c30848de66e5bd3434.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/302a5d71ff897050c153ec7d021afe62.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/a66eba0e55da4ff9d498e3236d5238cf.jpg",
+                    "count": 62,
+                    "isAudio": 0
+                },
+                "389": {
+                    "cate1Id": "15",
+                    "cate2Id": "389",
+                    "cate2Name": "盗贼之海",
+                    "shortName": "dzzh",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/23cfb4cd880a43866932f65d048820ff.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/d4053c353e05ef50c8ec69b5d3e49d0b.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/0cd3ec9d24d927406b267c4f7cef23d1.jpg",
+                    "count": 1,
+                    "isAudio": 0
+                },
+                "419": {
+                    "cate1Id": "15",
+                    "cate2Id": "419",
+                    "cate2Name": "新游前线",
+                    "shortName": "xyqx",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/5a5bed054faecab43d300cf249f10b56.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/05d5c0f27f84665fe27d7f4d43697b25.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/e09948f85fb6e5b486ff2acd9336628e.jpg",
+                    "count": 68,
+                    "isAudio": 0
+                }
+            },
+            "count": 985,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2017/12/28/387344154bd2d8515436d18704c0120e.png"
+        },
+        {
+            "data": [
+                {
+                    "room_id": 623938,
+                    "room_name": "小磊：帮粉丝打部落战！嘿嘿",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/05/16/ba12b5bd6d90a847e8de2579d92f1786.jpg",
+                    "cate2_id": 177,
+                    "nickname": "飞翔的小磊",
+                    "online": 5694,
+                    "cate2Name": "部落冲突",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 3774235,
+                    "room_name": "龍叔：无聊玩会。",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/3774235_1410.jpg",
+                    "cate2_id": 178,
+                    "nickname": "龍叔玩游戏",
+                    "online": "2.2万",
+                    "cate2Name": "CF手游",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 4768139,
+                    "room_name": "最强屠皇，顶尖排位教学【第五人格】",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/05/16/42b4fc2f1f6d4076525c23b9d146f23e.jpg",
+                    "cate2_id": 356,
+                    "nickname": "头鱼教主",
+                    "online": "8.7万",
+                    "cate2Name": "第5人格",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 4481449,
+                    "room_name": "鹊桥世道，巅峰之战",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/4481449_1411.jpg",
+                    "cate2_id": 198,
+                    "nickname": "鹊桥上将",
+                    "online": 2679,
+                    "cate2Name": "问道",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "手机游戏",
+            "shortName": "sjyx",
+            "cate2Info": {
+                "177": {
+                    "cate1Id": "9",
+                    "cate2Id": "177",
+                    "cate2Name": "部落冲突",
+                    "shortName": "blct",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/fcb784d2d41d2230c467ccf9070dde3f.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/eea39cd8b41bf91ab38fab338351c0f6.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/a90448dff795e84c415236027b80829c.png",
+                    "count": 12,
+                    "isAudio": 0
+                },
+                "178": {
+                    "cate1Id": "9",
+                    "cate2Id": "178",
+                    "cate2Name": "CF手游",
+                    "shortName": "CFSY",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/a6255811d97bab744c4058d8293bf461.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/60e3c09222f689e73724f6e26489c365.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/2a122e84f0c96868353fd913c8df42f0.jpg",
+                    "count": 57,
+                    "isAudio": 0
+                },
+                "196": {
+                    "cate1Id": "9",
+                    "cate2Id": "196",
+                    "cate2Name": "火影忍者",
+                    "shortName": "hyrz",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/5e86c65d5b58ff532a0040e32b5fa694.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/b780dc8903efd237b7125b5ce92d5aff.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/af8a865d3fd57707ed8446c8bb0da3db.png",
+                    "count": 42,
+                    "isAudio": 0
+                },
+                "198": {
+                    "cate1Id": "9",
+                    "cate2Id": "198",
+                    "cate2Name": "问道",
+                    "shortName": "wd",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/12c5337296bc6479889a9aff7b1fd3e1.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/f9b73a21e9efbf9a47f2f61a27b9fff5.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/a4658b754b282094b9d31837b44c2144.png",
+                    "count": 18,
+                    "isAudio": 0
+                },
+                "288": {
+                    "cate1Id": "9",
+                    "cate2Id": "288",
+                    "cate2Name": "魂斗罗归来",
+                    "shortName": "DLHGL",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/2611509bb4210b1b417bf3bea9cdcb54.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/1526599fce2c22b07187e6ff97f3e0a2.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/e2fa1e6921e62ad6b38c251615bc401b.png",
+                    "count": 26,
+                    "isAudio": 0
+                },
+                "349": {
+                    "cate1Id": "9",
+                    "cate2Id": "349",
+                    "cate2Name": "全军出击",
+                    "shortName": "jdqsqjcj",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/2a5909699afe89298bd2fde9c25d3407.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/885940e38de42f4449cdb8c8e3f80837.png",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/d6036d00cf75f432497a0d5bc8dc59c3.png",
+                    "count": 218,
+                    "isAudio": 0
+                },
+                "350": {
+                    "cate1Id": "9",
+                    "cate2Id": "350",
+                    "cate2Name": "刺激战场",
+                    "shortName": "jdqscjzc",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/76a6d8b20e6c1a465c6f1bbedc35fd41.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/1279662b668d897e436ccb3fb90c4286.png",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/5d58ae468ae5bfecb96d3c08a34dc439.png",
+                    "count": 712,
+                    "isAudio": 0
+                },
+                "356": {
+                    "cate1Id": "9",
+                    "cate2Id": "356",
+                    "cate2Name": "第5人格",
+                    "shortName": "dwrg",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/c653eab92828b5aea2907b1a1f500773.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/eea057821f85467c16e2349bbc19d43a.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/eaf178df258e3b6a49a9069b794dda19.jpg",
+                    "count": 69,
+                    "isAudio": 0
+                }
+            },
+            "count": 1661,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2017/12/28/3518cefa69fed466c8fbfe2ffc8b3721.png"
+        },
+        {
+            "data": [
+                {
+                    "room_id": 660205,
+                    "room_name": "“遇厦有你，一路同行。”",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/660205_1414.jpg",
+                    "cate2_id": 124,
+                    "nickname": "刘小七7",
+                    "online": "12.6万",
+                    "cate2Name": "户外",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 554559,
+                    "room_name": "北京安踏斯巴达冲冲冲，我来了！",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/554559_1413.jpg",
+                    "cate2_id": 124,
+                    "nickname": "峰峰三号333",
+                    "online": "35.9万",
+                    "cate2Name": "户外",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 533813,
+                    "room_name": "生态雅安，茶园生活",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/533813_1413.jpg",
+                    "cate2_id": 124,
+                    "nickname": "TD丶正直博",
+                    "online": "37.7万",
+                    "cate2Name": "户外",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 1761727,
+                    "room_name": "嗨 周末快乐呀",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/1761727_1410.jpg",
+                    "cate2_id": 175,
+                    "nickname": "我是唐菲",
+                    "online": "14万",
+                    "cate2Name": "音乐",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "元气领域",
+            "shortName": "yqly",
+            "cate2Info": {
+                "124": {
+                    "cate1Id": "2",
+                    "cate2Id": "124",
+                    "cate2Name": "户外",
+                    "shortName": "HW",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/b639e0126ab342b30680c45aa04f8f16.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/b24b716b2a13bc0b758632e5b20e0835.png",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/2a2a64b80958f3cd82f6d832f3e17b2d.png",
+                    "count": 333,
+                    "isAudio": 0
+                },
+                "175": {
+                    "cate1Id": "2",
+                    "cate2Id": "175",
+                    "cate2Name": "音乐",
+                    "shortName": "music",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/d585248ffbd27ee3d386f587e64e82f7.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/fe21193c72537bad3cd9917d67e4b02c.png",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/17eae7d84cacd7071b182bd03499db2a.png",
+                    "count": 80,
+                    "isAudio": 0
+                },
+                "183": {
+                    "cate1Id": "2",
+                    "cate2Id": "183",
+                    "cate2Name": "原创IP",
+                    "shortName": "gm",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/7d675a4fe19aa3c6b8f2c6310e6afd1c.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/1c4f9b3e0db24610879faf1e041d53d5.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/c4ea47d4d87e746b66583bc82c93d411.png",
+                    "count": 1,
+                    "isAudio": 0
+                },
+                "194": {
+                    "cate1Id": "2",
+                    "cate2Id": "194",
+                    "cate2Name": "美食",
+                    "shortName": "ms",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/1556ea966e9327eb424ea3241f794c8e.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/6f7316ab336a8b1a7fdd021bd8e07093.png",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/03f4e5ae39abeda422414d4ea4625d7a.png",
+                    "count": 69,
+                    "isAudio": 0
+                }
+            },
+            "count": 504,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2017/12/29/4bb4427731a0c43c7f26734d1cdb1a22.png"
+        },
+        {
+            "data": [
+                {
+                    "room_id": 617935,
+                    "room_name": "仅瑾：好久没打守望，想黑百合了",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/617935_1414.jpg",
+                    "cate2_id": 148,
+                    "nickname": "仅瑾鸽鸽",
+                    "online": "3.7万",
+                    "cate2Name": "守望先锋",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 132715,
+                    "room_name": "搞笑神族小金",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/132715_1413.jpg",
+                    "cate2_id": 4,
+                    "nickname": "小金金金金金x",
+                    "online": 7426,
+                    "cate2Name": "星际争霸",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 122024,
+                    "room_name": "魔兽争霸3~精彩视频~LioN大帝解说",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/122024_1413.jpg",
+                    "cate2_id": 55,
+                    "nickname": "大帝LioN",
+                    "online": "3.7万",
+                    "cate2Name": "魔兽争霸",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 48699,
+                    "room_name": "衣锦夜行：换家德冲个前十",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/48699_1413.jpg",
+                    "cate2_id": 2,
+                    "nickname": "衣锦夜行",
+                    "online": "12万",
+                    "cate2Name": "炉石传说",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "暴雪专区",
+            "shortName": "blzq",
+            "cate2Info": {
+                "2": {
+                    "cate1Id": "1",
+                    "cate2Id": "2",
+                    "cate2Name": "炉石传说",
+                    "shortName": "How",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/ff869b8da8231a3f2e8136f6d46e052b.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/26d993d79c1daa53d1b083980e97559e.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/39cf38b099203cfdb730bd9bf5c928cf.png",
+                    "count": 90,
+                    "isAudio": 0
+                },
+                "4": {
+                    "cate1Id": "1",
+                    "cate2Id": "4",
+                    "cate2Name": "星际争霸",
+                    "shortName": "SC",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/285a8f700e8e9b18b165c9d1536aa552.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/6db9044e2f8a5f9b4e8b9e3e82302828.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/16b4bd4838e19bdc7f346ab738f725f5.png",
+                    "count": 43,
+                    "isAudio": 0
+                },
+                "5": {
+                    "cate1Id": "1",
+                    "cate2Id": "5",
+                    "cate2Name": "魔兽世界",
+                    "shortName": "WOW",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/c533849b05ed10adc406ba88a2bd5ac3.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/b6ae05443687a28ab177e3ff17de1590.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/ad261c282823bd3e06aa8f613dedee14.png",
+                    "count": 252,
+                    "isAudio": 0
+                },
+                "32": {
+                    "cate1Id": "1",
+                    "cate2Id": "32",
+                    "cate2Name": "暗黑破坏神3",
+                    "shortName": "DIABLO3",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/121b523ec0b8c1731fd6cdd51f4cfc67.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/cb93d5c827943183431827479814239f.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/e6dc96bd0a6281ffa467c3dc196eb14d.png",
+                    "count": 28,
+                    "isAudio": 0
+                },
+                "35": {
+                    "cate1Id": "1",
+                    "cate2Id": "35",
+                    "cate2Name": "风暴英雄",
+                    "shortName": "HOTS",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/cbc9bdcda3fa8ef8d3e4ad2b27958905.png",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/04b83dc8bbdeef4cc04c04cea581a9c2.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/60c66daeed660c4657a0f8a8c2640b40.png",
+                    "count": 26,
+                    "isAudio": 0
+                },
+                "55": {
+                    "cate1Id": "1",
+                    "cate2Id": "55",
+                    "cate2Name": "魔兽争霸",
+                    "shortName": "mszb",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/2bcd85bc223deaab025ff6fda1802b2d.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/6aac4340f1c23cf9f6a6b5cd637f6527.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/2a92db5e12c5e20317078cba9e7f346c.png",
+                    "count": 101,
+                    "isAudio": 0
+                },
+                "148": {
+                    "cate1Id": "1",
+                    "cate2Id": "148",
+                    "cate2Name": "守望先锋",
+                    "shortName": "Overwatch",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/9967c133fb4af633d0cfc537519d4c7b.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/17dc1cd2164e3b50424ca0d9d80b2155.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/247512c321e7b626581ce9e3c3f71acf.png",
+                    "count": 119,
+                    "isAudio": 0
+                }
+            },
+            "count": 654,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2017/12/29/599aa770704d65df90cf2514e3238860.png"
+        },
+        {
+            "data": [
+                {
+                    "room_id": 4581422,
+                    "room_name": "提莫队长~正在待命~~",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/4581422_1410.jpg",
+                    "cate2_id": 113,
+                    "nickname": "迷人的卿姐姐i",
+                    "online": "1.4万",
+                    "cate2Name": "棋牌娱乐",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 714420,
+                    "room_name": "国家大师精彩网络对局解说",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/714420_1410.jpg",
+                    "cate2_id": 113,
+                    "nickname": "金玉满堂2016",
+                    "online": "2.5万",
+                    "cate2Name": "棋牌娱乐",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 300165,
+                    "room_name": "途游线下斗地主赛直播",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/300165_1413.jpg",
+                    "cate2_id": 113,
+                    "nickname": "Poker丶小旺",
+                    "online": "15万",
+                    "cate2Name": "棋牌娱乐",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 6906,
+                    "room_name": "三国战记系列 告别单身手速30年",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/6906_1413.jpg",
+                    "cate2_id": 26,
+                    "nickname": "宋先生",
+                    "online": "4.4万",
+                    "cate2Name": "怀旧游戏",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "休闲游戏",
+            "shortName": "xxyx",
+            "cate2Info": {
+                "26": {
+                    "cate1Id": "15",
+                    "cate2Id": "26",
+                    "cate2Name": "怀旧游戏",
+                    "shortName": "classic",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/1572191247cc4b08ff6ffdd4bee808d7.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/568029e11adb524c778da572b578f2e3.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/ea235dda9ebcb03074a757c596b2944d.png",
+                    "count": 142,
+                    "isAudio": 0
+                },
+                "54": {
+                    "cate1Id": "1",
+                    "cate2Id": "54",
+                    "cate2Name": "音乐游戏",
+                    "shortName": "MG",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/18f16be7f6221499dfefc677dd13051a.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/0116342c283da46d09d631b9b3353765.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/28f9c84cc761cbbca068f607f4b8dd49.png",
+                    "count": 3,
+                    "isAudio": 0
+                },
+                "111": {
+                    "cate1Id": "1",
+                    "cate2Id": "111",
+                    "cate2Name": "巫师之昆特牌",
+                    "shortName": "wszktp",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/2338eebcc49e5bc2623871a69460517f.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/2fa01f0f4e8116adafda002c0959c2e9.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/a484eaa5a4ec1babab14455f3129c9df.jpg",
+                    "count": 4,
+                    "isAudio": 0
+                },
+                "113": {
+                    "cate1Id": "1",
+                    "cate2Id": "113",
+                    "cate2Name": "棋牌娱乐",
+                    "shortName": "qipai",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/d4345c32ba73714c4e3fb3fc872a41e9.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/1ba73805803186ac8bcbf1c044b53fd1.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/3f0d3b10adf1dff66feca46af6361a63.png",
+                    "count": 55,
+                    "isAudio": 0
+                },
+                "147": {
+                    "cate1Id": "1",
+                    "cate2Id": "147",
+                    "cate2Name": "高达文化区",
+                    "shortName": "GUNDAM",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/bf8777563c75141af936e3e25a4e42f9.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/3daf091c489ff9a05cee7d3350fea5e7.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/2159b41f0f6b5e552ceb029aa6f10fb2.png",
+                    "count": 11,
+                    "isAudio": 0
+                }
+            },
+            "count": 231,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2017/12/29/63246fd8b6ba46758761ba9aef374faa.png"
+        },
+        {
+            "data": [
+                {
+                    "room_id": 4889127,
+                    "room_name": "新来的小姐姐呀",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/05/06/6d6c73ca29b5cf916be5bd6ba94a084f_big.jpg",
+                    "cate2_id": 201,
+                    "nickname": "宝儿呀丶",
+                    "online": 6883,
+                    "cate2Name": "颜值",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 2141766,
+                    "room_name": "今天竖屏了解一下",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/05/17/2141766_20180517010811_small.jpg",
+                    "cate2_id": 201,
+                    "nickname": "你的珂珂宝",
+                    "online": "9.1万",
+                    "cate2Name": "颜值",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 1965453,
+                    "room_name": "「大琳」做饭tv了解一下",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/05/14/1965453_20180514002749_small.jpg",
+                    "cate2_id": 201,
+                    "nickname": "污大琳不污是平胸",
+                    "online": "4.3万",
+                    "cate2Name": "颜值",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 4793076,
+                    "room_name": "茶式比心了解一下",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/05/05/4793076_20180505184324_small.jpg",
+                    "cate2_id": 201,
+                    "nickname": "Aura阿茶",
+                    "online": "1.1万",
+                    "cate2Name": "颜值",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "全民星秀",
+            "shortName": "qmxx",
+            "cate2Info": {
+                "201": {
+                    "cate1Id": "8",
+                    "cate2Id": "201",
+                    "cate2Name": "颜值",
+                    "shortName": "yz",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/0ec0627e8e52a0e391506bd6b633c1f5.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/d1546cfd3f7f985719f894496f2a7b2e.png",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/f779aaa7554c44c8f0e43e2845a8683e.png",
+                    "count": 380,
+                    "isAudio": 0
+                }
+            },
+            "count": 103,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2017/12/29/7aa646f280b4494505a0009232165aa3.png"
+        },
+        {
+            "data": [
+                {
+                    "room_id": 2132902,
+                    "room_name": "陈翔六点半， 让快乐为你加速！",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/2132902_1411.jpg",
+                    "cate2_id": 195,
+                    "nickname": "陈翔六点半",
+                    "online": "25.1万",
+                    "cate2Name": "鱼教",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 119790,
+                    "room_name": "股商学院：零基础股票学习",
+                    "room_src": "https://rpic.douyucdn.cn/roomCover/cover_update/2017/08/30/937c44fe4bb23f1f78e4770c0a2a6ed4.jpg",
+                    "cate2_id": 215,
+                    "nickname": "股商学院",
+                    "online": "1.2万",
+                    "cate2Name": "财经",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 999919,
+                    "room_name": "千锋互联的直播间",
+                    "room_src": "https://rpic.douyucdn.cn/amrpic-180519/999919_1412.jpg",
+                    "cate2_id": 283,
+                    "nickname": "千锋互联",
+                    "online": 2265,
+                    "cate2Name": "设计师",
+                    "isAudio": 0
+                },
+                {
+                    "room_id": 424998,
+                    "room_name": "【大明攒机】相约520 美女和豪机",
+                    "room_src": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/05/09/b04e853f55fe1f5afeea20d3a61d24c9.jpg",
+                    "cate2_id": 134,
+                    "nickname": "上海大明海",
+                    "online": "4.4万",
+                    "cate2Name": "数码科技",
+                    "isAudio": 0
+                }
+            ],
+            "tabName": "科技教育",
+            "shortName": "kj",
+            "cate2Info": {
+                "134": {
+                    "cate1Id": "11",
+                    "cate2Id": "134",
+                    "cate2Name": "数码科技",
+                    "shortName": "smkj",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/e1487b7ae1c54f90a5f70c07a772267e.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/7d14c2a7e7e8c8f773d9d25c18f40ae9.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/0042e015b9b49bfac48397c15fe620af.png",
+                    "count": 100,
+                    "isAudio": 0
+                },
+                "136": {
+                    "cate1Id": "11",
+                    "cate2Id": "136",
+                    "cate2Name": "汽车",
+                    "shortName": "car",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/f4a5922bba2ead559e888cb8a6def9b8.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/b78528a4925fe48077c88ed433deeaf8.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/259c981502298cd57757b70d895e3411.png",
+                    "count": 48,
+                    "isAudio": 0
+                },
+                "195": {
+                    "cate1Id": "11",
+                    "cate2Id": "195",
+                    "cate2Name": "鱼教",
+                    "shortName": "yj",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/022fc749ab53764b058cd525c3c05012.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/ac9e22d6b80cb57b878e6fa3cca15400.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/57c21fb294d45a5efa86817cc2c9ea54.png",
+                    "count": 66,
+                    "isAudio": 0
+                },
+                "215": {
+                    "cate1Id": "11",
+                    "cate2Id": "215",
+                    "cate2Name": "财经",
+                    "shortName": "Finance",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/9b53e0c721881749248cfcba52a09e3d.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/9f42f02300d1ac339f269662ef187366.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/b7b4249e515e35fd64610748d12a54d5.png",
+                    "count": 34,
+                    "isAudio": 0
+                },
+                "283": {
+                    "cate1Id": "11",
+                    "cate2Id": "283",
+                    "cate2Name": "设计师",
+                    "shortName": "BLOVES",
+                    "pic": "https://cs-op.douyucdn.cn/dycatr/game_cate/9f37996aaf939f0c845f3b346cc83d79.jpg",
+                    "icon": "https://cs-op.douyucdn.cn/dycatr/game_cate/d699282488c675ca8192e0e62395f577.jpg",
+                    "smallIcon": "https://cs-op.douyucdn.cn/dycatr/game_cate/e56fdc9a8df33751c016e3d456e3db3e.png",
+                    "count": 29,
+                    "isAudio": 0
+                }
+            },
+            "count": 277,
+            "icon": "https://club-img.douyucdn.cn/dylamr/2017/12/29/f0c0fad68012cafe24c142dae126329d.png"
+        }
+    ]
+}
