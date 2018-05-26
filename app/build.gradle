@@ -26,9 +26,9 @@ android {
 
         manifestPlaceholders = [
                 UMENG_CHANNEL_VALUE:"own",
-                GETUI_APP_ID : "*******",
-                GETUI_APP_KEY : "*******",
-                GETUI_APP_SECRET : "*******"
+                GETUI_APP_ID : "123456",
+                GETUI_APP_KEY : "123456",
+                GETUI_APP_SECRET : "123456"
         ]
     }
 
@@ -38,11 +38,14 @@ android {
             storeFile file('debug.keystore')
         }
         release {
-            storeFile file('****.jks')
-            storePassword STORE_PASSWORD
-            keyAlias KEY_ALIAS
-            keyPassword KEY_PASSWORD
-            v2SigningEnabled false
+            storeFile file('debug.keystore')
+
+
+//            storeFile file('****.jks')
+//            storePassword STORE_PASSWORD
+//            keyAlias KEY_ALIAS
+//            keyPassword KEY_PASSWORD
+//            v2SigningEnabled false
         }
     }
 
@@ -68,7 +71,7 @@ android {
                     def outputFile = output.outputFile
                     if (outputFile != null && outputFile.name.endsWith('.apk')) {
                         // APK命名格式 own_Live&Love-v1.0.0_1_release.apk
-                        def fileName = "${variant.productFlavors[0].name}_Live&Love_v${defaultConfig.versionName}_${defaultConfig.versionCode}_release.apk"
+                        def fileName = "${variant.productFlavors[0].name}_Live_v${defaultConfig.versionName}_${defaultConfig.versionCode}_release.apk"
                         output.outputFile = new File(outputFile.parent, fileName)
                     }
                 }
