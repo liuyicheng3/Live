@@ -11,9 +11,7 @@ import android.graphics.Bitmap;
 import android.graphics.drawable.Drawable;
 import android.support.annotation.Nullable;
 import android.support.v7.widget.AppCompatImageView;
-import android.text.TextUtils;
 import android.util.AttributeSet;
-import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.bumptech.glide.load.DataSource;
@@ -79,7 +77,7 @@ public class CustomImageView extends AppCompatImageView {
     }
 
     public void setImageUrl(String url) {
-        setImageUrl(url, R.drawable.default_image);
+        setImageUrl(url, R.drawable.img_default);
     }
 
     public void setImageUrl(String url, int defaultResId) {

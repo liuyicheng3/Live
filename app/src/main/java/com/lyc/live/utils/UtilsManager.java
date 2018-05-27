@@ -4,6 +4,7 @@ import android.content.Context;
 import android.widget.Toast;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -87,5 +88,16 @@ public class UtilsManager {
         }
         return sb.toString();
     }
+
+    public static boolean mkdir(String path){
+        File file = new File(path);
+        if (!file.exists()){
+            boolean result = file.mkdirs();
+            MLog.e("创建文件夹失败："+path);
+            return result;
+        }
+        return true;
+    }
+
 
 }

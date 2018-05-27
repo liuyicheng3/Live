@@ -7,6 +7,8 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
+import android.widget.TextView;
 
 import com.lyc.live.common.base.BaseActivity;
 import com.lyc.live.common.bean.FeedItemItemBean;
@@ -66,7 +68,7 @@ public class MainActivity extends BaseActivity implements IMainView {
 
         @Override
         public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-            View itemView = LayoutInflater.from(mActivity).inflate(R.layout.item_view,parent,false);
+            View itemView = LayoutInflater.from(mActivity).inflate(R.layout.item_view,null);
             return new ViewHolder(itemView);
         }
 
@@ -83,16 +85,25 @@ public class MainActivity extends BaseActivity implements IMainView {
     }
 
     private class ViewHolder extends RecyclerView.ViewHolder {
-        private CustomImageView iv_cover;
+        private CustomImageView iv_cover,iv_avatar;
+        private TextView tv_nick,tv_comment,tv_praise;
+        private ImageView iv_share;
 
         public ViewHolder(View itemView) {
             super(itemView);
+            iv_avatar = itemView.findViewById(R.id.iv_avatar);
             iv_cover = itemView.findViewById(R.id.iv_cover);
+            tv_nick= itemView.findViewById(R.id.tv_nick);
+            tv_comment = itemView.findViewById(R.id.tv_comment);
+            tv_praise = itemView.findViewById(R.id.tv_praise);
         }
 
         public void initData(FeedItemItemBean itemItemBean){
             iv_cover.setImageUrl(itemItemBean.room_src);
-//            iv_cover.setImageUrl("http://img03.tooopen.com/uploadfile/downs/images/20110714/sy_20110714135215645030.jpg");
+            tv_nick.setText(itemItemBean.nickname);
+            tv_comment.setText("1.3K");
+            tv_praise.setText(itemItemBean.online);
+            iv_avatar.setImageUrlCircle(mActivity,itemItemBean.avatar,R.drawable.ic_user_default);
         }
     }
 }

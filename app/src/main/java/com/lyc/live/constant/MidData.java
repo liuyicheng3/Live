@@ -10,7 +10,7 @@ public interface MidData {
 
     String rootDir = Environment.getExternalStorageDirectory().getPath();
 
-    String appDir = rootDir + "/Live&Love/";
+    String appDir = rootDir + "/Live/";
 
     /**
      * 应用缓存目录 ☆
@@ -19,5 +19,5 @@ public interface MidData {
     /**
      * 网络图片的缓存目录 .temp/image/
      */
-    String ImageDir = tempDir + "image/";
+    String ImageDir = tempDir + "image";
 }

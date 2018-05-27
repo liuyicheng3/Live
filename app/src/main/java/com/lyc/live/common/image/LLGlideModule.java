@@ -18,6 +18,7 @@ import com.bumptech.glide.module.AppGlideModule;
 import com.bumptech.glide.request.RequestOptions;
 import com.lyc.live.constant.MidData;
 import com.lyc.live.utils.MLog;
+import com.lyc.live.utils.UtilsManager;
 
 import java.io.InputStream;
 
@@ -30,7 +31,9 @@ public class LLGlideModule extends AppGlideModule{
     @Override
     public void applyOptions(Context context, GlideBuilder builder) {
         final int diskCacheSizeBytes = 200 * 1024 * 1024; // 200 MB
-        builder.setDiskCache(new DiskLruCacheFactory(MidData.ImageDir, diskCacheSizeBytes));
+
+//        UtilsManager.mkdir(MidData.ImageDir);
+//        builder.setDiskCache(new DiskLruCacheFactory(MidData.ImageDir, diskCacheSizeBytes));
         judgeIfIsLowDevice(context,builder);
         super.applyOptions(context, builder);
     }
