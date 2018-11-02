@@ -9,6 +9,8 @@ buildscript {
 
 apply plugin: 'com.android.application'
 apply plugin: 'com.jakewharton.hugo'
+apply plugin: 'com.didi.virtualapk.plugin'
+
 
 android {
     dataBinding {
@@ -16,6 +18,7 @@ android {
     }
     compileSdkVersion 26
     buildToolsVersion "26.0.3"
+    resourcePrefix "live__"
     defaultConfig {
         applicationId "com.lyc.live.livelove"
         minSdkVersion 14
@@ -97,7 +100,6 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    compile 'com.android.support:appcompat-v7:26.+'
 
     //EventBus
     compile 'org.greenrobot:eventbus:3.1.1'
@@ -130,9 +132,22 @@ dependencies {
     }
     annotationProcessor 'com.github.bumptech.glide:compiler:4.0.0'
 
-    compile 'com.android.support:appcompat-v7:26.1.0'
+    compile 'com.android.support:support-v4:26.1.0'
     compile 'com.android.support:design:26.1.0'
     compile 'com.android.support:support-annotations:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:1.1.3'
+
 
     testCompile 'junit:junit:4.12'
+}
+
+virtualApk {
+    // 插件资源表中的packageId，需要确保不同插件有不同的packageId.
+    packageId = 0x6f
+
+    // 宿主工程application模块的路径，插件的构建需要依赖这个路径
+    targetHost = '../Live/app'
+
+    //默认为true，如果插件有引用宿主的类，那么这个选项可以使得插件和宿主保持混淆一致
+    applyHostMapping = true
 }

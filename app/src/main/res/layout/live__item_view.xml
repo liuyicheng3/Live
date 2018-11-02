@@ -4,14 +4,14 @@
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-    tools:background="@color/white">
+    tools:background="@color/live__white">
 
     <com.lyc.live.common.image.CustomImageView
         android:id="@+id/iv_cover"
         android:layout_width="match_parent"
         android:layout_height="110dp"
         android:scaleType="centerCrop"
-        tools:background="@color/colorPrimary"
+        tools:background="@color/live__colorPrimary"
         android:layout_marginTop="15dp" />
 
 
@@ -19,7 +19,7 @@
         android:layout_width="40dp"
         android:layout_height="40dp"
         android:id="@+id/iv_avatar"
-        tools:background="@color/colorAccent"
+        tools:background="@color/live__colorAccent"
         android:layout_alignBottom="@+id/iv_cover"
         android:layout_marginBottom="-13dp"
         android:layout_marginLeft="10dp"
@@ -36,7 +36,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/tv_nick"
-            android:textColor="@color/gray_2"
+            android:textColor="@color/live__gray_2"
             android:textSize="13dp"
             tools:text="NB的人"
             android:layout_marginLeft="10dp"
@@ -47,10 +47,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/tv_comment"
-            android:textColor="@color/gray_2"
+            android:textColor="@color/live__gray_2"
             android:textSize="13dp"
             tools:text="100"
-            android:drawableLeft="@drawable/ic_comment_gray"
+            android:drawableLeft="@drawable/live__ic_comment_gray"
             android:layout_marginLeft="10dp"
             android:layout_toLeftOf="@+id/tv_praise"
             android:gravity="center_vertical"
@@ -62,12 +62,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/tv_praise"
-            android:textColor="@color/gray_2"
+            android:textColor="@color/live__gray_2"
             android:textSize="13dp"
             tools:text="1615"
             android:layout_marginLeft="10dp"
             android:layout_toLeftOf="@+id/iv_share"
-            android:drawableLeft="@drawable/ic_praise_gray"
+            android:drawableLeft="@drawable/live__ic_praise_gray"
             android:gravity="center_vertical"
             android:layout_centerVertical="true"
 
@@ -80,7 +80,7 @@
             android:paddingRight="10dp"
             android:layout_height="wrap_content"
             android:id="@+id/iv_share"
-            android:src="@drawable/ic_share_gray"
+            android:src="@drawable/live__ic_share_gray"
             android:layout_marginLeft="10dp"
             android:layout_centerVertical="true"
 

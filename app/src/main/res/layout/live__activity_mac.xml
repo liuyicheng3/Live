@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout
+        android:id="@+id/table_phone_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/live__white">
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="手机型号"
+                android:textSize="15dp"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_brand"
+                android:text="数值"
+                android:textSize="15dp"
+
+                />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Android 版本"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/tv_android_sdk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="15dp" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mac"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/tv_android_mac"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="15dp" />
+
+        </TableRow>
+
+
+    </TableLayout>
+
+    <LinearLayout
+        android:id="@+id/vg_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="60dp"
+        >
+
+        <TextView
+            android:id="@+id/tv_title_online"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="有网络连接"
+            android:textColor="#8B1A1A"
+            android:textSize="18dp" />
+
+        <TableLayout
+            android:id="@+id/table_content_online"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@color/live__white"
+            >
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="属性"
+                    android:textSize="15dp"
+
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="数值"
+                    android:textSize="15dp"
+
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Wlan(From IP)"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_ip_wlan_online"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Spy Wlan"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_spy_wlan_online"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+
+            </TableRow>
+
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="SystemUtil Wlan"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_current_wlan_online"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="eth(From IP)"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_ip_eth_online"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Spy eth"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_spy_eth_online"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="SystemUtil eth"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_current_eth_online"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="wifimanager Mac"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_wifimanager_mac_online"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/tv_title_offline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="无网络连接"
+            android:textColor="#8B1A1A"
+            android:textSize="18dp" />
+
+        <TableLayout
+            android:id="@+id/table_content_offline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@color/live__white"
+            app:layout_constraintTop_toBottomOf="@+id/tv_title_online">
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="属性"
+                    android:textSize="15dp"
+
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="数值"
+                    android:textSize="15dp"
+
+                    />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Wlan(From IP)"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_ip_wlan_offline"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Spy Wlan"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_spy_wlan_offline"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="SystemUtil Wlan"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_current_wlan_offline"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="eth(From IP)"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_ip_eth_offline"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Spy eth"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_spy_eth_offline"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="SystemUtil eth"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_current_eth_offline"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="wifimanager mac"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/tv_wifimanager_mac_offline"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="15dp" />
+            </TableRow>
+
+        </TableLayout>
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/cb_current_net"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="网络连接"
+        app:layout_constraintBottom_toBottomOf="@+id/vg_content" />
+
+    <Button
+        android:id="@+id/btn_refresh"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="30dp"
+        android:text="刷新数值"
+        app:layout_constraintBottom_toBottomOf="@+id/vg_content"
+        app:layout_constraintLeft_toRightOf="@+id/cb_current_net" />
+
+</android.support.constraint.ConstraintLayout>

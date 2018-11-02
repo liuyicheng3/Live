@@ -12,7 +12,6 @@ import android.widget.TextView;
 
 import com.lyc.live.common.base.BaseActivity;
 import com.lyc.live.common.bean.FeedItemItemBean;
-import com.lyc.live.common.bean.net.FeedDetailBean;
 import com.lyc.live.common.image.CustomImageView;
 import com.lyc.live.livelove.R;
 
@@ -28,7 +27,7 @@ public class MainActivity extends BaseActivity implements IMainView {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.act_main);
+        setContentView(R.layout.live__activity_entry);
         initView();
         initData();
     }
@@ -68,7 +67,7 @@ public class MainActivity extends BaseActivity implements IMainView {
 
         @Override
         public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-            View itemView = LayoutInflater.from(mActivity).inflate(R.layout.item_view,null);
+            View itemView = LayoutInflater.from(mActivity).inflate(R.layout.live__item_view,null);
             return new ViewHolder(itemView);
         }
 
@@ -103,7 +102,7 @@ public class MainActivity extends BaseActivity implements IMainView {
             tv_nick.setText(itemItemBean.nickname);
             tv_comment.setText("1.3K");
             tv_praise.setText(itemItemBean.online);
-            iv_avatar.setImageUrlCircle(mActivity,itemItemBean.avatar,R.drawable.ic_user_default);
+            iv_avatar.setImageUrlCircle(mActivity,itemItemBean.avatar,R.drawable.live__ic_user_default);
         }
     }
 }

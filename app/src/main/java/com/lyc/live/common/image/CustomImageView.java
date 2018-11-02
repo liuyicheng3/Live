@@ -77,7 +77,7 @@ public class CustomImageView extends AppCompatImageView {
     }
 
     public void setImageUrl(String url) {
-        setImageUrl(url, R.drawable.img_default);
+        setImageUrl(url, R.drawable.live__img_default);
     }
 
     public void setImageUrl(String url, int defaultResId) {
