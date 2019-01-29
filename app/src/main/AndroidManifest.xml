@@ -21,8 +21,7 @@
         android:supportsRtl="true"
         android:name="com.lyc.live.common.base.LLApplication"
         android:theme="@style/live__AppTheme">
-        <activity android:name="com.lyc.live.entry.MainActivity"></activity>
-        <activity android:name="com.lyc.live.mac.MacActivity">
+        <activity android:name="com.lyc.live.entry.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"></action>
                 <category android:name="android.intent.category.LAUNCHER" />
